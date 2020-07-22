@@ -8,6 +8,18 @@ When to use IAM policies vs. S3 policies
 
 [https://aws.amazon.com/blogs/security/iam-policies-and-bucket-policies-and-acls-oh-my-controlling-access-to-s3-resources/](https://aws.amazon.com/blogs/security/iam-policies-and-bucket-policies-and-acls-oh-my-controlling-access-to-s3-resources/)
 
+**Naming**
+
+The name of class and function must be specific and descriptive.
+
+**Maven**
+
+Dependency scope
+
+[https://howtodoinjava.com/maven/maven-dependency-scopes/](https://howtodoinjava.com/maven/maven-dependency-scopes/)
+
+
+
 
 
 
