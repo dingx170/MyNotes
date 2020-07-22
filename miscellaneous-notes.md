@@ -12,13 +12,7 @@ When to use IAM policies vs. S3 policies
 
 The name of class and function must be specific and descriptive.
 
-**Maven**
-
-Dependency scope
-
-[https://howtodoinjava.com/maven/maven-dependency-scopes/](https://howtodoinjava.com/maven/maven-dependency-scopes/)
-
-
+\*\*\*\*
 
 
 
